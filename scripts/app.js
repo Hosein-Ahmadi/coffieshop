@@ -59,7 +59,7 @@ shopClose.addEventListener("click", (e) => {
 })
 
 
-const sr = ScrollReveal({
+/* const sr = ScrollReveal({
     origin: "bottom",
     distance: "60px",
     duration: 1000,
@@ -67,16 +67,15 @@ const sr = ScrollReveal({
 })
 
 sr.reveal(".home_allTexts", { origin: "top" })
-sr.reveal(".sec_R_title", { origin: "right",duration:500 })
-sr.reveal(".left_sec_link", { origin: "left",delay:700})
+sr.reveal(".sec_R_title", { origin: "right", duration: 500 })
+sr.reveal(".left_sec_link", { origin: "left", delay: 700 })
 sr.reveal(".product_Box")
-sr.reveal(".rightCategory", { origin: "right"})
-sr.reveal(".leftCategory", { origin: "left",delay:800})
+sr.reveal(".rightCategory", { origin: "right" })
+sr.reveal(".leftCategory", { origin: "left", delay: 800 })
 sr.reveal(".catProduct", { origin: "top" })
-sr.reveal(".swiper-slide", { origin: "bottom",delay:700 })
-sr.reveal(".leftPagsElm", { origin: "left",delay:700})
-sr.reveal(".clubAnimat")
-sr.reveal(".blogAnimate")
-sr.reveal(".contactAnimat", { origin: "top",delay:800})
-sr.reveal(".serviceAnimate", { origin: "right",delay:800})
-sr.reveal(".footerAnimate")
+sr.reveal(".swiper-slide", { origin: "bottom", delay: 700 })
+sr.reveal(".leftPagsElm", { origin: "left", delay: 700 })
+sr.reveal(".blogAnimate", { origin: "bottom" })
+sr.reveal(".contactAnimat", { origin: "top", delay: 800 })
+sr.reveal(".serviceAnimate", { origin: "right", delay: 800 })
+sr.reveal(".footerAnimate") */
